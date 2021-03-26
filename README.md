@@ -1,6 +1,9 @@
 # EliteBot Discord documentation
 
-# Commands
+- [Commands](https://github.com/samu126-HU/elite-bot-documentation/edit/main/README.md/###commands)
+- [Other features](https://github.com/samu126-HU/elite-bot-documentation/edit/main/README.md/###other-features)
+
+### Commands
 
 |      Command      	|                 Args                	|                                 Description                                 	|                                                      	|
 |:-----------------:	|:-----------------------------------:	|:---------------------------------------------------------------------------:	|------------------------------------------------------	|
@@ -15,7 +18,7 @@
 | e.s-deny          	| msg-id                              	| Denies a suggestion based<br>on message id.                                 	| Everyone will know <br>who denied it.                	|
 | /status           	| server-status                       	| Sets the server status.                                                     	| First arg accepts;<br>online<br>offline<br>debugging 	|
 
-# Other features
+### Other features
 
 |        Feature       	|                   Description                   	|           Notes          	|
 |:--------------------:	|:-----------------------------------------------:	|:------------------------:	|
