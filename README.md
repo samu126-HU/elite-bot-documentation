@@ -1,7 +1,7 @@
 # EliteBot Discord documentation
 
-- [Commands](https://github.com/samu126-HU/elite-bot-documentation/edit/main/README.md/###commands)
-- [Other features](https://github.com/samu126-HU/elite-bot-documentation/edit/main/README.md/###other-features)
+- [Commands](https://github.com/samu126-HU/elite-bot-documentation/#commands)
+- [Other features](https://github.com/samu126-HU/elite-bot-documentation/#other-features)
 
 ### Commands
 
