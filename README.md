@@ -14,3 +14,10 @@
 | e.s-accept        	| <msg-id>                                   	| Accepts a suggestion based <br>on message id.                               	| Everyone will know <br>who accepted it.              	|
 | e.s-deny          	| <msg-id>                                   	| Denies a suggestion based<br>on message id.                                 	| Everyone will know <br>who denied it.                	|
 | /status           	| <server-status>                            	| Sets the server status.                                                     	| First arg accepts;<br>online<br>offline<br>debugging 	|
+
+# Other features
+
+|        Feature       	|                   Description                   	|           Notes          	|
+|:--------------------:	|:-----------------------------------------------:	|:------------------------:	|
+| Suggestion Formatter 	| Makes #suggestions a bit nicer.                 	| Bug: people can't react. 	|
+| No u                 	| Returns "no u" if "gay bot" sent<br>in discord. 	| Too important.           	|
