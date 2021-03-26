@@ -1,5 +1,7 @@
 # EliteBot Discord documentation
 
+# Commands
+
 |      Command      	|                Args                	|                              Description                              	|                                         Notes                                         	|
 |:-----------------:	|:----------------------------------:	|:---------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
 |      e.ascii      	|               <text>               	|                      Makes an ascii art for you.                      	|                                 Maximum 24 characters.                                	|
